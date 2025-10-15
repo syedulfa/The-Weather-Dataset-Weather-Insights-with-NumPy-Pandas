@@ -1,2 +1,2 @@
-# The-Weather-Dataset-Weather-Insights-with-NumPy-Pandas
+# The-Weather-Dataset-Weather-Insights
 The goal of this project is to explore and analyze a real-world weather dataset using Python, focusing on data cleaning, exploratory data analysis (EDA), and statistical evaluation. The project aims to uncover patterns, trends, and anomalies within the data while answering key questions about wind speed, visibility, humidity, and weather conditions
